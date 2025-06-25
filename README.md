@@ -1,4 +1,4 @@
-## A Configurable Framework for SQL Performance Benchmarking at Scale
+# A Configurable Framework for SQL Performance Benchmarking at Scale
 
 ### Project Overview
 
