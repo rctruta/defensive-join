@@ -1,6 +1,4 @@
-# A Configurable Framework for SQL Performance Benchmarking at Scale
-
-## Code for Substack Article Series on Database Performance
+## A Configurable Framework for SQL Performance Benchmarking at Scale
 
 ### Project Overview
 
